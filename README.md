@@ -5,3 +5,5 @@ Keeps tract of time between signage points and amount being cached. Uses various
 
 Signage Point times are retrieved by tailing the log file and adding them to internal data structures to extract various metrics and monitor the health of ones node , filter passes and proofs found.
 
+![ScreenShot](screenshot.jpg)
+
